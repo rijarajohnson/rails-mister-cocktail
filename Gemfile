@@ -43,6 +43,9 @@ gem 'simple_form'
 # Gemfile
 gem 'dotenv-rails', groups: [:development, :test]
 
+# Gemfile
+gem 'cloudinary', '~> 1.12.0'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
